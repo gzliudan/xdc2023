@@ -13,3 +13,7 @@
 ## Remix
 
 [How To deploy your first smart contract on the XDC Network using Remix](https://docs.xdc.community/learn/how-to-articles/how-to-deploy-your-first-smart-contract-on-the-xdc-network-using-remix)
+
+## Verify contract
+
+[Verify contract codes](./verify-contract.md)
