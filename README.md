@@ -2,6 +2,8 @@
 
 ## HardHat
 
+[The first HardHat project](./HardHat.md)
+
 [How To deploy your first smart contract on the XDC Network using Hardhat](https://docs.xdc.community/learn/how-to-articles/how-to-deploy-your-first-smart-contract-on-the-xdc-network-using-hardhat)
 
 ## Truffle
